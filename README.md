@@ -4,6 +4,7 @@ Web 3.0 resources for everyone getting started. From resources, to how to create
 # Resources
 
 # Tutorials and Guides
-- [[How to test and deploy (locally) a smart contract]]
+- [How to test and deploy (locally) a smart contract](How_to_test_and_deploy_(locally)_a_smart_contract.md) 
+
 
 # Links

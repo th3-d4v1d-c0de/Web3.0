@@ -1,10 +1,12 @@
+# How to test and deploy (locally) a smart contract 
+
 This is a Guide on how to create a basic smart contract using Truffle Suite.
 
-# Prerequisites 
+## Prerequisites 
 - Have NodeJS installed
 - Have Truffle Suite installed
 
-# Steps to deploy
+## Steps to deploy
 1. Create a working directory 
  ```
  mkdir MyFirstSC
@@ -175,7 +177,8 @@ Summary
 11. Congrats your contract is now deployed on Ganche.
 ![Ganache contract deployed](/images/ganache_contracts.png "Ganache contract deployed")
 ![Ganache contract transaction](/images/ganache_contract_transaction.png "Ganache contract transaction")
-# Test the contract functionality 
+
+## Test the contract functionality 
 - To interact with the contract deployed on Ganache execute the command:
 ```
 truffle console
